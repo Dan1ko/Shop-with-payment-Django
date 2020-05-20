@@ -21,7 +21,7 @@ googleapis-common-protos==1.51.0
 grpc-google-logging-v2==0.8.1
 grpc-google-pubsub-v1==0.8.1
 html5lib==0.999999999
-httplib2==0.17.0
+httplib2==0.18.0
 idna==2.6
 importlib-metadata==1.6.0
 importlib-resources==1.4.0
